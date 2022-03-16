@@ -1,0 +1,15 @@
+[1mdiff --git a/file1.txt b/file1.txt[m
+[1mindex e2ab6bc..a5f5150 100644[m
+[1m--- a/file1.txt[m
+[1m+++ b/file1.txt[m
+[36m@@ -1,2 +1,7 @@[m
+ Giá dầu quay đầu lao dốc khi lo ngại gián đoạn nguồn cung giảm bớt.[m
+[31m-Cùng với đó là khả năng nhu cầu sụt giảm vì chiến lược Zero-Covid của Trung Quốc.[m
+\ No newline at end of file[m
+[32m+[m[32mCùng với đó là khả năng nhu cầu sụt giảm vì chiến lược Zero-Covid của Trung Quốc.[m
+[32m+[m
+[32m+[m
+[32m+[m[32mTai sao gia dau giam?[m
+[32m+[m
+[32m+[m[32mZing news[m
+\ No newline at end of file[m
